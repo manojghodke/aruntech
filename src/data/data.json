@@ -1,0 +1,165 @@
+{
+  "Header": {
+    "title": "Transforming Today for a Digital Tomorrow",
+    "paragraph": "Highlighting digital transformation services, innovative software, and cutting-edge technology solutions."
+  },
+  "About": {
+    "paragraph": "We envision a world where technology seamlessly integrates with everyday life, making businesses more efficient, innovative, and competitive. Our goal is to be at the forefront of technological advancements, shaping the future through sustainable and impactful solutions.",
+    "Why": [
+      "Expertise and Experience",
+      "Customer-Centric Approach",
+      "Innovative Solutions",
+      "Comprehensive Service Offering"
+    ],
+    "Why2": [
+      "Commitment to Quality",
+      "Scalable and Flexible Solutions",
+      "Proven Track Record",
+      "Dedicated Support "
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Frontend Development",
+      "text": "HTML, CSS, JavaScript, React, etc."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Backend Development",
+      "text": "If applicable, showcase technologies like Node.js, Express, or any CMS platforms."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Full-Stack Solutions",
+      "text": "Combine both frontend and backend for comprehensive services."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "UI/UX Design",
+      "text": "Prototyping, wireframing, and ensuring user-friendly interfaces."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Maintenance and Support",
+      "text": "Regular updates, bug fixes, and enhancements."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/011.jpg",
+      "name": "Manoj Ghodke ",
+      "job": "Software Engineer ",
+      "about": " 1.5 years of experience in frontend development. Specialization in modern technologies like React, CSS, and any backend expertise if applicable."
+    }
+  ],
+  "Contact": {
+    "address": "MD Plaza R A College Read , Washim ,444505",
+    "phone": "+91 9518555679",
+    "email": "theprintinghubwsm@gmail.com",
+    "Linkden": "https://in.linkedin.com/in/manoj-ghodke-25b35b1b8?original_referer=https%3A%2F%2Fchatgpt.com%2F",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "IT Services",
+      "text": "Custom software, mobile apps, and web development tailored to your business."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Consulting Services",
+      "text": "Expert advice on technology strategies, digital transformation."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Training and Support",
+      "text": " Training programs, documentation, and community support."
+    },
+    {
+      "icon": "fa fa-book",
+      "title": "College Work ",
+      "text": "We can do college work on, documentations, and notes all other college work "
+    }
+  ]
+}
